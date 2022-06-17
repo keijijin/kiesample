@@ -13,7 +13,7 @@
   <description>A sample Drools Maven project</description>
 
   <properties>
-    <runtime.version>7.23.0.Final-redhat-00003</runtime.version>
+    <runtime.version>7.59.0.Final-redhat-00006</runtime.version>
 	<maven.compiler.source>1.8</maven.compiler.source>
 	<maven.compiler.target>1.8</maven.compiler.target>
   </properties>
